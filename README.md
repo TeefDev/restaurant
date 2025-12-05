@@ -12,6 +12,9 @@ This project focuses on server-side development with C#, database-driven logic, 
 
 ## 🖼️ Photo  
 صور المشروع:
+![Sind](./Sing.jpeg)
+
+![Sind Up](./Sing.Up.jpeg)
 
 ![Home](./Home.jpeg)
 
