@@ -15,6 +15,8 @@ This project focuses on server-side development with C#, database-driven logic, 
 
 ![Home](./Home.jpeg)
 
+![About](./About.jpeg)
+
 ![Menu](./Menu.jpeg)
 
 ![Orders](./Orders.jpeg)
@@ -22,8 +24,6 @@ This project focuses on server-side development with C#, database-driven logic, 
 ![Notifications](./Notifications.jpeg)
 
 ![Connect](./Connect.jpeg)
-
-![About](./About.jpeg)
 
 ---
 
