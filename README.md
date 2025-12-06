@@ -1,4 +1,4 @@
-## Restaurant Management System — C# and SQL Server
+## Restaurant Management System 
 
 The Restaurant Management System is a full-featured, server-driven application built using C# (ASP.NET Web Forms) and SQL Server.
 The project simulates core restaurant operations such as menu display, order handling, notification management, and customer communication — all implemented using Web Forms controls without manually writing HTML.
