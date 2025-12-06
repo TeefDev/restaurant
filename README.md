@@ -1,99 +1,78 @@
-# 🍽️ Restaurant Management System  
-# نظام إدارة المطاعم — C# + SQL Server
+## Restaurant Management System — C# and SQL Server
 
-A full restaurant management system built using C# (ASP.NET Web Forms) and SQL Server, designed to simulate real restaurant operations such as menu display, order processing, notifications, and customer interaction.
+The Restaurant Management System is a full-featured, server-driven application built using C# (ASP.NET Web Forms) and SQL Server.
+The project simulates core restaurant operations such as menu display, order handling, notification management, and customer communication — all implemented using Web Forms controls without manually writing HTML.
 
-This project focuses on server-side development with C#, database-driven logic, and structured page flow using Web Forms — without writing any manual HTML templates.
+This system demonstrates backend development skills, database integration, and complete workflow management in a classic enterprise-style ASP.NET Web Forms environment.
 
-نظام متكامل لإدارة المطاعم تم تطويره باستخدام لغة C# ضمن ASP.NET Web Forms مع ربط مباشر بقاعدة بيانات SQL Server.  
-المشروع يحاكي العمليات الأساسية للمطاعم مثل عرض المنيو، استقبال الطلبات، الإشعارات، والتواصل — وكل ذلك دون كتابة HTML يدوي، اعتمادًا على عناصر Web Forms الجاهزة.
 
----
+## Project Overview
 
-## 🖼️ Photo  
-صور المشروع:
+The application is built using ASP.NET Web Forms with structured page flow, server controls, and backend logic written in C#.
+It connects directly to SQL Server to manage data operations such as creating orders, updating menu items, tracking notifications, and handling customer interactions.
 
-![Sind](./Sing.jpeg)
 
-![Sind Up](./Sing.Up.jpeg)
+## Project Preview
 
+![Sign In](./Sing.jpeg)
+![Sign Up](./Sing.Up.jpeg)
 ![Home](./Home.jpeg)
-
 ![About](./About.jpeg)
-
 ![Menu](./Menu.jpeg)
-
 ![Orders](./Orders.jpeg)
-
 ![Notifications](./Notifications.jpeg)
+![Contact](./Connect.jpeg)
 
-![Connect](./Connect.jpeg)
 
----
+## Core Functionalities
 
-## ✨ Project Overview  
-## ✨ نظرة عامة على المشروع
+ • Dynamic menu display retrieved from the database
+ • Order creation and storage using SQL Server
+ • Notification display and status updates
+ • Structured pages for information, menu, orders, and communication
+ • Consistent UI layout through a Master Page
+ • Data management implemented through ADO.NET
 
-### 🔹 يعتمد المشروع على:
-- صفحات ASP.NET Web Forms (.aspx)  
-- منطق خلفي مكتوب بـ C# (.cs)  
-- اتصال مباشر بـ SQL Server لإدارة البيانات  
-- عناصر الويب الجاهزة في Framework مثل:  
-  - GridView  
-  - TextBox  
-  - Button  
-  - Label  
-  - Master Page  
+System Components
+ • ASPX pages for UI rendering
+ • C# code-behind files for logic and event handling
+ • SQL tables for menu items, orders, notifications, and customer details
+ • Web Forms controls such as GridView, TextBox, Button, and Label
 
-### 🔹 ويقدم وظائف أساسية:
-- عرض قائمة الطعام بشكل ديناميكي  
-- إنشاء طلب وحفظه داخل قاعدة البيانات  
-- عرض إشعارات وتنبيهات للمستخدم  
-- صفحات للتواصل والمعلومات  
-- توحيد التصميم باستخدام Master Page  
-- إدارة البيانات عبر ADO.NET  
 
----
+## Technologies Used
 
-## 🛠️ Technologies Used  
-## 🛠️ التقنيات المستخدمة
+## C# — ASP.NET Web Forms
+ • Page lifecycle handling
+ • Server-side event processing
+ • Control interactions
+ • Business logic implementation
 
-### ✔ C# — ASP.NET Web Forms
-- Business Logic  
-- Page Lifecycle  
-- Events & Controls  
-- Form Processing  
+## SQL Server
+ • Menu data storage
+ • Order records
+ • Notifications and customer information
+ • Full CRUD operations
 
-### ✔ SQL Server
-- تخزين الطلبات  
-- بيانات المنيو  
-- بيانات الإشعارات والعملاء  
-- أوامر CRUD عبر ADO.NET  
+## ADO.NET
+ • SqlConnection
+ • SqlCommand
+ • SqlDataReader and DataTable for data retrieval and manipulation
 
-### ✔ ADO.NET
-- SqlConnection  
-- SqlCommand  
-- SqlDataReader / DataTable  
+## Visual Studio
+ • Development environment for building, debugging, and managing the application
 
-### ✔ Visual Studio
-- البيئة الأساسية لتطوير المشروع  
-- Build & Debug  
 
----
+## What This Project Demonstrates
 
-## 🌟 What This Project Demonstrates  
-## 🌟 ماذا يثبت هذا المشروع؟
+ • Ability to build a functional, database-driven application using C#
+ • Strong understanding of ASP.NET Web Forms structure and page lifecycle
+ • Practical use of SQL Server and ADO.NET for real data operations
+ • Experience developing without manual HTML by relying on Web Forms controls
+ • Capability to design and link enterprise-style pages using a Master Page
+ • Solid experience with CRUD operations and backend logic
 
-- بناء نظام حقيقي باستخدام C# + SQL Server  
-- فهم كامل لتدفق الصفحات في ASP.NET Web Forms  
-- تخزين ومعالجة البيانات عبر ADO.NET  
-- استخدام عناصر Web Forms لبناء واجهة دون HTML  
-- ربط المشروع بقاعدة بيانات وفهم CRUD  
-- تطوير صفحات احترافية بتوحيد تصميم Master Page  
 
----
+## Developer
 
-## 👩‍💻 Developer  
-## 👩‍💻 المطوّرة
-
-Teef M. Karyry — TeefDev  
+Teef M. Karyry — TeefDev
