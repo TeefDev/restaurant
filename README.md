@@ -24,6 +24,31 @@ It connects directly to SQL Server to manage data operations such as creating or
 ![Contact](./Connect.jpeg)
 
 
+## Key Features
+
+Several improvements can expand the Restaurant Management System into a more advanced, production-ready application. Planned enhancements include:
+##  • Role-Based Authentication
+Adding separate dashboards for admins, chefs, cashiers, and customers with controlled access permissions.
+##  • Real-Time Order Tracking
+Implementing live order status updates using SignalR or a similar real-time communication system.
+ ## • Enhanced Menu Management
+Allowing admins to upload images, adjust availability, manage categories, and set daily offers.
+ ## • Customer Portal
+Creating a customer-facing interface where users can track their orders, re-order items, and leave feedback.
+ ## • Payment Gateway Integration
+Supporting secure online payments through third-party services for dine-in, takeaway, or delivery orders.
+##  • Analytics Dashboard
+Adding visual reports for sales, most ordered items, peak hours, and overall restaurant performance.
+##  • Order Notifications for Staff
+Generating automated notifications for kitchen staff when new orders are placed.
+##  • Inventory Management System
+Tracking stock levels, updating usage automatically based on orders, and generating low-stock alerts.
+##  • Multi-Language Support
+Offering both English and Arabic interfaces for a wider audience.
+##  • Migration to Modern ASP.NET Core
+Rebuilding the application with MVC or Razor Pages for improved performance, scalability, and modern architecture.
+
+
 ## Core Functionalities
 
  • Dynamic menu display retrieved from the database
